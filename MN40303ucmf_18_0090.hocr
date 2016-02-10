@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40303ucmf_18_0090.png"; bbox 0 0 1175 2966; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 16 1746 580 1988">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 16 1746 580 1986">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 1746 580 1908; baseline -0.003 -20.776"><span class='ocrx_word' id='word_1_1' title='bbox 143 1820 377 1908; x_wconf 75' lang='lat' dir='ltr'><strong>Qamqua</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 470 1746 580 1888; x_wconf 61' lang='lat' dir='ltr'>n§1a³1sun</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 16 1873 548 1988; baseline -0.004 -22"><span class='ocrx_word' id='word_1_3' title='bbox 16 1873 76 1966; x_wconf 81' lang='grc' dir='ltr'>ζ </span> <span class='ocrx_word' id='word_1_4' title='bbox 129 1901 511 1997; x_wconf 46' lang='grc' dir='ltr'>ῳαωρετῆἀιηωμ</span> <span class='ocrx_word' id='word_1_5' title='bbox 499 1938 501 1941; x_wconf 33' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_6' title='bbox 544 1921 548 1933; x_wconf 81' lang='grc'>’-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 115 2353 585 2609">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 17 2353 585 2609">
+     <span class='ocr_line' id='line_1_3' title="bbox 118 2353 585 2455; baseline -0.016 -16.6"><span class='ocrx_word' id='word_1_7' title='bbox 118 2357 199 2455; x_wconf 30' lang='lat' dir='ltr'>sfiet,</span> <span class='ocrx_word' id='word_1_8' title='bbox 207 2373 274 2433; x_wconf 88' lang='lat' dir='ltr'>De1</span> <span class='ocrx_word' id='word_1_9' title='bbox 268 2350 585 2458; x_wconf 60' lang='lat' dir='ltr'>benefic10‚1mmeim</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 115 2450 484 2539; baseline -0.027 -20.115"><span class='ocrx_word' id='word_1_10' title='bbox 115 2477 120 2539; x_wconf 56' lang='grc' dir='ltr'>γζ</span> <span class='ocrx_word' id='word_1_11' title='bbox 139 2450 251 2532; x_wconf 82' lang='lat' dir='ltr'>XXVI</span> <span class='ocrx_word' id='word_1_12' title='bbox 251 2450 334 2514; x_wconf 78' lang='lat' dir='ltr'>versu</span> <span class='ocrx_word' id='word_1_13' title='bbox 361 2464 393 2513; x_wconf 48' lang='lat' dir='ltr'>1*x</span> <span class='ocrx_word' id='word_1_14' title='bbox 442 2469 458 2476; x_wconf 53' lang='lat'>&#39;¹</span> <span class='ocrx_word' id='word_1_15' title='bbox 478 2484 484 2491; x_wconf 63' lang='lat'><em>„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 170 2569 561 2609; baseline -0.01 0"><span class='ocrx_word' id='word_1_16' title='bbox 170 2605 171 2609; x_wconf 71' lang='grc'>,</span> <span class='ocrx_word' id='word_1_17' title='bbox 479 2569 495 2595; x_wconf 67' lang='lat'>2&#39;</span> <span class='ocrx_word' id='word_1_18' title='bbox 549 2574 561 2596; x_wconf 70' lang='lat' dir='ltr'>f*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 592 2966">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 592 2966">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 592 2966; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 592 2966; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
